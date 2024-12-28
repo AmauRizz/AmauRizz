@@ -1,6 +1,6 @@
 ## Hey! Im Amaury 👋🏻👨🏻‍🎓
 - 🗺️ Currently studying in La Rochelle, France
-- 💻 I like Programming (can't finish my projects)
+- 💻 I like Programming (but I can't finish my projects)
 - 🔨 I can do a bit of teamwork (my friends call me the ‘bulldozer’)
 
 
