@@ -2,7 +2,7 @@
 <h3>WhoIAm???</h3>
 <ul>
   <li>🗺️ Currently studying in La Rochelle, France</li>
-  <li>💻 I like Programming (but I can't finish my projects)</li>
+  <li>💻 I like Programming</li>
   <li>🔨 I can do a bit of teamwork</li>
 </ul>
 
