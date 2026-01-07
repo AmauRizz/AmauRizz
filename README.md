@@ -42,12 +42,6 @@ I like working across the stack — from designing robust back-end architectures
 
 [![My Skills](https://skillicons.dev/icons?i=figma,git,docker,idea,vscode)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmauRizz&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ## 🤝 Connect With Me
 
 * 🐙 GitHub: [github.com/AmauRizz](https://github.com/AmauRizz)
