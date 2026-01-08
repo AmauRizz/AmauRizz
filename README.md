@@ -6,7 +6,7 @@ I like working across the stack — from designing robust back-end architectures
 
 * 🎓 Computer Science undergraduate student
 * 💼 Freelance / Independent contractor
-* 🌐 Web & Full-Stack Developer
+* 🌐 Web & Full-Stack Developer.
 
 <p>
   <a href="https://github.com/AmauRizz?tab=followers">
