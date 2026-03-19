@@ -4,9 +4,9 @@ I'm a **Computer Science undergraduate student** based in La Rochelle and a **pa
 
 I like working across the stack, from designing robust back-end architectures and APIs to crafting modern, responsive front-end interfaces. I’m always learning, experimenting, and pushing myself to grow as a developer.
 
-* 🎓 Computer Science undergraduate student
-* 💼 Freelance / Independent contractor
-* 🌐 Web & Full-Stack Developer
+* Computer Science undergraduate student
+* Freelance / Independent contractor
+* Web & Full-Stack Developer
 
 <p>
   <a href="https://github.com/AmauRizz?tab=followers">
@@ -24,9 +24,9 @@ I like working across the stack, from designing robust back-end architectures an
 
 ## 💡 What Drives Me
 
-* 💻 Designing and developing personal and academic projects
-* ☄️ Continuous learning and discovering new technologies
-* 🏕️ Traveling and exploring the world while there’s still time
+* Designing and developing personal and academic projects
+* Continuous learning and discovering new technologies
+* Traveling and exploring the world while there’s still time
 
 ## 🧑‍💻 Languages
 
