@@ -2,7 +2,7 @@
 
 I'm a **Computer Science undergraduate student** based in La Rochelle and a **passionate full-stack developer**. Curious and motivated, I enjoy building clean, scalable, and user-friendly applications, whether for academic projects, personal ideas, or freelance missions.
 
-I like working across the stack — from designing robust back-end architectures and APIs to crafting modern, responsive front-end interfaces. I’m always learning, experimenting, and pushing myself to grow as a developer.
+I like working across the stack, from designing robust back-end architectures and APIs to crafting modern, responsive front-end interfaces. I’m always learning, experimenting, and pushing myself to grow as a developer.
 
 * 🎓 Computer Science undergraduate student
 * 💼 Freelance / Independent contractor
@@ -50,4 +50,4 @@ I like working across the stack — from designing robust back-end architectures
 
 ---
 
-⭐️ *If you like my work, feel free to follow me or star a repository — it really helps!*
+⭐️ *If you like my work, feel free to follow me or star/fork a repository*
