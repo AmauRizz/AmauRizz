@@ -15,7 +15,7 @@ I like working across the stack, from designing robust back-end architectures an
   <a href="https://github.com/AMulceyDev?tab=repositories&sort=stargazers">
     <img alt="Repositories" title="Explore my repositories and starred projects ⭐" src="https://custom-icon-badges.demolab.com/github/stars/AMulceyDev?color=55960c&style=for-the-badge&labelColor=488207&logo=stars"/>
   </a>
-  <a href="https://buymeacoffee.com/amaurizz">
+  <a href="https://buymeacoffee.com/amulceydev">
     <img alt="Buy me a coffee" title="Support a student developer and future projects ☕" src="https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
   </a>
 </p>
